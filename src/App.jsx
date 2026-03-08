@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import axios from "axios";
 import "./App.css";
 
-const API_BASE = "https://gateway.algorycode.com/ael/authservice/auth/google/login";
+const API_BASE = "https://gateway.algorycode.com/ael/authservice";
 const GOOGLE_CLIENT_ID =
     "990624623867-o83douun4e0vke2nur5qteo9pr4mmlf8.apps.googleusercontent.com";
 
